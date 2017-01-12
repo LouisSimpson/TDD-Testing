@@ -1,0 +1,14 @@
+G:\CSharpProjects\CTEC2902Labs\TestFramework\obj\Debug\TestFramework.csprojResolveAssemblyReference.cache
+G:\CSharpProjects\CTEC2902Labs\TestFramework\bin\Debug\TestFramework.dll
+G:\CSharpProjects\CTEC2902Labs\TestFramework\bin\Debug\TestFramework.pdb
+G:\CSharpProjects\CTEC2902Labs\TestFramework\bin\Debug\ClassLibrary.dll
+G:\CSharpProjects\CTEC2902Labs\TestFramework\bin\Debug\ClassLibrary.pdb
+G:\CSharpProjects\CTEC2902Labs\TestFramework\obj\Debug\TestFramework.dll
+G:\CSharpProjects\CTEC2902Labs\TestFramework\obj\Debug\TestFramework.pdb
+E:\CSharpProjects\CTEC2902Labs\TestFramework\bin\Debug\TestFramework.dll
+E:\CSharpProjects\CTEC2902Labs\TestFramework\bin\Debug\TestFramework.pdb
+E:\CSharpProjects\CTEC2902Labs\TestFramework\bin\Debug\ClassLibrary.dll
+E:\CSharpProjects\CTEC2902Labs\TestFramework\bin\Debug\ClassLibrary.pdb
+E:\CSharpProjects\CTEC2902Labs\TestFramework\obj\Debug\TestFramework.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\CTEC2902Labs\TestFramework\obj\Debug\TestFramework.dll
+E:\CSharpProjects\CTEC2902Labs\TestFramework\obj\Debug\TestFramework.pdb
